@@ -32,8 +32,8 @@ importers:
   .:
     dependencies:
       '@googleapis/sheets':
-        specifier: ^5.0.5
-        version: 5.0.5
+        specifier: ^7.0.0
+        version: 7.0.0
       '@netlify/functions':
         specifier: ^2.6.0
         version: 2.6.0
@@ -4939,8 +4939,8 @@ packages:
       xcase: 2.0.1
     dev: true
 
-  /@googleapis/sheets@5.0.5:
-    resolution: {integrity: sha512-XMoONmgAJm2jYeTYHX4054VcEkElxlgqmnHvt0wAurzEHoGJLdUHhTAJXGPLgSs4WVMPtgU8HLrmk7/U+Qlw7A==}
+  /@googleapis/sheets@7.0.0:
+    resolution: {integrity: sha512-hzlIg/Jco+EdujvP05MznE+thVJ2tXt+4TumHw8xgEhGUfKysVhRuDndmvrJ2hkh5Eloc9BurwXdgw5EQ8p4mQ==}
     engines: {node: '>=12.0.0'}
     dependencies:
       googleapis-common: 7.0.0
